@@ -1,2 +1,2 @@
 console.log('GIT started');
-console.log('VERSION 1');
+console.log("VERSION 2");
